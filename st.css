@@ -1,0 +1,33 @@
+/**, *:before, *:after {
+  box-sizing: border-box;
+
+  IGNORE LES BORDURES
+}*/
+
+#texte{
+width:auto;
+height: 800px;
+background-color: rgba(49, 149, 19, 0.49);
+}
+
+h1{
+  font-size: 4em;
+  text-align: center;
+  position: absolute;
+width: 100%;
+color: rgba(11, 4, 4, 0.63);
+}
+p{
+color: white;
+font-size: 3em;
+}
+span{
+  color: purple ;
+  font-family: fantasy;
+  font-size: 1em;
+}
+body{
+  background-image:url(maison.JPG);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
